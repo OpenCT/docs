@@ -7,6 +7,7 @@
 ![example image](https://www.google.com/hangouts/images/marquee.jpg)
 ###Gantry:
 Parts Needed: ............
+
 1. Assemble these thingies (image)
 2. Slide them onto (a) in. extrusions (image)
 3. Slide the rods trhough the the linear rail shaft
@@ -14,8 +15,10 @@ Parts Needed: ............
 5. tighten it down
 6. Caster balls
 7. belt system
+
 ###Right Tower:
 Parts Needed: ............
+
 1. Attach 
 2. Slide them onto (a) in. extrusions (image)
 3. Slide the rods trhough the the linear rail shaft
