@@ -19,12 +19,12 @@ Parts Needed: ............
 ###Right Tower:
 Parts Needed: ............
 
-1. Attach 
-2. Slide them onto (a) in. extrusions (image)
-3. Slide the rods trhough the the linear rail shaft
-4. tighten it down
-4. Caster balls
-5. belt system
+1. Attach two angle brackets to the longer extrusion aas shown (image)
+2. Attach the shorter extrusion on the top (image)
+3. Attach linear slide + mounting 3d printing
+4. Attach linear rail shaft
+5. Slide shaft through
+
 ###Left Tower:
 
 ###Base:
