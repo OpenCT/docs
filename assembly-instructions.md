@@ -19,14 +19,27 @@ Parts Needed: ............
 ###Right Tower:
 Parts Needed: ............
 
-1. Attach two angle brackets to the longer extrusion aas shown (image)
+1. Attach two angle brackets to the longer extrusion as shown (image)
 2. Attach the shorter extrusion on the top (image)
 3. Attach linear slide + mounting 3d printing
 4. Attach linear rail shaft
 5. Slide shaft through
 
 ###Left Tower:
+Parts Needed: ............
+
+1. Attach two angle brackets to the longer extrusion as shown (image)
+2. Assemble stepper motor assembly.
+3. Mount stepper assembly.
+4. Slide rod through
 
 ###Base:
+Parts needed:.............
+
+1. Assemble stepper assembly
+2. Drill holes for mounting hole
+3. Drill holes for linear bearings
+4. Mount stepper assembly
+
 ###Electronics:
 ###Bringing it all together:
