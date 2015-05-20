@@ -6,7 +6,18 @@
 ##Steps
 ![example image](https://www.google.com/hangouts/images/marquee.jpg)
 ###Gantry:
-Parts Needed: ............
+Parts Needed: 
+
+Part              | Quantity    | Image 
+------------------|-------------|----------
+Linear Rail Shaft | 4        |
+Slotted Extrusions| width*2  |
+Linear Bearing PLatform| 4   |
+8mm rod           | length*2 |
+M4 oval T nut     | 10       |
+M4 10 mm Screw    | 10       |
+Caster ball       | 2        |
+3d Printed belt clamp| 2     |
 
 1. Assemble these thingies (image)
 2. Slide them onto (a) in. extrusions (image)
@@ -17,7 +28,15 @@ Parts Needed: ............
 7. belt system
 
 ###Right Tower:
-Parts Needed: ............
+Part              | Quantity    | Image 
+------------------|-------------|----------
+Linear Rail Shaft | 1       |
+Slotted Extrusions| ???     |
+Linear Bearing PLatform| 1  |
+3d printed mount for ^| 2   |
+8mm rod           | ???     |
+M4 oval T nut     | 10      |
+M4 10 mm Screw    | 10      |
 
 1. Attach two angle brackets to the longer extrusion as shown (image)
 2. Attach the shorter extrusion on the top (image)
@@ -26,15 +45,29 @@ Parts Needed: ............
 5. Slide shaft through
 
 ###Left Tower:
-Parts Needed: ............
+Part              | Quantity    | Image 
+------------------|-------------|----------
+Slotted Extrusions| ???     |
+Stepper Motor     | 1       |
+Stepper Mounting plate| 1   |
+Gear assembly     | 1       |
+8mm rod           | ???     |
+M4 oval T nut     | 6       |
+M4 10 mm Screw    | 6       |
 
-1. Attach two angle brackets to the longer extrusion as shown (image)
+1. Attach brackets to the extrusion as shown (image)
 2. Assemble stepper motor assembly.
 3. Mount stepper assembly.
 4. Slide rod through
 
 ###Base:
-Parts needed:.............
+Part              | Quantity    | Image 
+------------------|-------------|----------
+Slotted Extrusions| ???     |
+Stepper Motor     | 1       |
+Stepper Mounting plate| 1   |
+Gear assembly Print   | 1   |
+Bearings          | 2       |
 
 1. Assemble stepper assembly
 2. Drill holes for mounting hole
