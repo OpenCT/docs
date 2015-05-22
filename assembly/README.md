@@ -76,6 +76,11 @@ Gear assembly Print   | 1   |
 Bearings          | 2       |
 
 1. Assemble stepper assembly
+  - ![Parts](linear-parts.jpg)
+  - ![Faceplate](linear-faceplate.jpg)
+  - ![Pulley](linear-pulley.jpg)
+  - ![Cover](linear-cover.jpg)
+  - ![Finished](linear-finished.jpg)
 2. Drill holes for mounting hole
 3. Drill holes for linear bearings
 4. Mount stepper assembly
