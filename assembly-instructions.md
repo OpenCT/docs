@@ -19,13 +19,19 @@ M4 10 mm Screw    | 10       |
 Caster ball       | 2        |
 3d Printed belt clamp| 2     |
 
-1. Assemble these thingies (image)
-2. Slide them onto (a) in. extrusions (image)
-3. Slide the rods trhough the the linear rail shaft
-4. slide 2 bearing platforms onto each
-5. tighten it down
-6. Caster balls
-7. belt system
+1. Mount Linear Rail Shaft on extrusion
+  - ![Parts](railshaft-parts.jpg)
+  - ![Add Nuts](railshaft-withnuts.jpg)
+  - ![Close View](railshaft-closeview.jpg)
+  - ![First nut in](railshaft-firstin.jpg)
+  - ![Second nut in](railshaft-secondin.jpg)
+  - ![Tighten it down](railshaft-tighten.jpg)
+  - ![Finished](railshaft-finished.jpg)
+2. Slide the rods trhough the the linear rail shaft
+3. slide 2 bearing platforms onto each
+4. tighten it down
+5. Caster balls
+6. belt system
 
 ###Right Tower:
 Part              | Quantity    | Image 
