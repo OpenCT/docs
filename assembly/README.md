@@ -4,7 +4,6 @@
 
 
 ##Steps
-![example image](https://www.google.com/hangouts/images/marquee.jpg)
 ###Gantry:
 Parts Needed: 
 
@@ -81,9 +80,11 @@ Bearings          | 2       |
   - ![Pulley](linear-pulley.jpg)
   - ![Cover](linear-cover.jpg)
   - ![Finished](linear-finished.jpg)
-2. Drill holes for mounting hole
-3. Drill holes for linear bearings
-4. Mount stepper assembly
+2. Mount stepper assembly
 
 ###Electronics:
 ###Bringing it all together:
+1. Mount Gantry to base.
+2. Attach belt and run it through stepper assembly
+3. Mount towers onto the sides of gantry
+4. Attach electronics
