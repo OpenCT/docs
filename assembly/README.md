@@ -43,11 +43,13 @@ Linear Bearing PLatform| 1  |
 M4 oval T nut     | 10      |
 M4 10 mm Screw    | 10      |
 
-1. Attach two angle brackets to the longer extrusion as shown (image)
-2. Attach the shorter extrusion on the top (image)
-3. Attach linear slide + mounting 3d printing
-4. Attach linear rail shaft
-5. Slide shaft through
+![Parts](rtower-parts.jpg)
+1. Attach a corner to the longer extrusion ![Corner](rtower-corneron.jpg)
+2. Attach rail shaft ![Rail Shaft](rtower-linear.jpg)
+3. Attach a corner the shorter extrusion ![Corner2](rtower-corner2.jpg)
+4. Mount the two extrusions together ![Structure](rtower-structure.jpg)
+5. Assemble bearing assembly ![Bearing](rtower-bearing.jpg)
+6. Mount bearing ![Done](rtower-done.jpg)
 
 ###Left Tower:
 Part              | Quantity    | Image 
@@ -60,10 +62,13 @@ Gear assembly     | 1       |
 M4 oval T nut     | 6       |
 M4 10 mm Screw    | 6       |
 
-1. Attach brackets to the extrusion as shown (image)
-2. Assemble stepper motor assembly.
-3. Mount stepper assembly.
-4. Slide rod through
+![Parts](ltower-parts.jpg)
+1. Attach brackets to the extrusion ![Corner](ltower-corner.jpg)
+2. Attach mounting plate to the extrusion ![Mounting](ltower-mounting.jpg)
+3. Put bearings in ![Bearings](ltower-bearings.jpg)
+4. Mount stepper and faceplate ![Motor](ltower-motor.jpg)
+5. Add gears and rod ![Gears](ltower-gears.jpg)
+![Full](ltower-full.jpg)
 
 ###Base:
 Part              | Quantity    | Image 
